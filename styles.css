@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+body{background-color:#eee;padding:1em;}
+textarea{font:11px Monaco,monospace;width:40em;height:20em;}
+textarea{padding:0.5em;}
+h1{font:bold 2em Arial,sans-serif;letter-spacing:-0.1em;}
+h1{padding-bottom:0.2em;}
+canvas{border:1px solid #ccc;background-color:#fff;}
+canvas{margin-top:2em;}
+.left,canvas{vertical-align:top;display:inline-block;}
+pre{border:1px solid #ccc;text-align:left;padding:1em;background-color:#fff;}
+form{display:block;height:2em;}
+#info{position:absolute;bottom:1em;left:0em;right:0;text-align:center;}
+#info{font:0.8em Helvetica,sans-serif;color:#999;}
+#info a{color:#555;text-decoration:underline;}
