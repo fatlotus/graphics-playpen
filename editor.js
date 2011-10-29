@@ -40,7 +40,7 @@ GraphEditor = {
 		var body = document.getElementsByTagName('body')[0];
 		var select = document.getElementsByTagName('select')[0];
 		
-		textarea.value = "draw = function() {\n  \n};";
+		textarea.value = GraphEditor.samples[1];
 		errors.firstChild.nodeValue = 'Type someting in the field above to start.';
 		
 		context.width = canvas.width;
